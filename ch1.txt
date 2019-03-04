@@ -1,0 +1,7 @@
+# Scary House
+
+author: Kirk Van Arkel
+
+## Preface
+
+This is a good book.
